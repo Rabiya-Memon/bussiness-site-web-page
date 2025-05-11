@@ -1,0 +1,101 @@
+body{
+    background-color: rgb(4, 4, 219);
+}
+.img{
+    margin-left: 240px;
+position: relative;
+top: 30px;
+}
+.heading{
+    color: white;
+    position: relative;
+    left: 19%;
+    top: -46px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+}
+.heading:hover{
+    color: black;
+}
+ol li{
+    display: inline;
+    color: white;
+    position: relative;
+    left: 33%;
+    top: -105px;
+    font-size: 20px;
+    margin-left: 50px;
+}
+ol li:hover{
+    color: grey;
+}
+.image{
+    position: relative;
+    left: 89%;
+    top: -160px;
+}
+.head{
+    font-size: 60px;
+    color: white;
+    position: relative;
+    left: 17%;
+    top: -100px;
+    text-shadow:0 0 4px black ;
+}
+.head:hover{
+    color: black;
+}
+.pera{
+    color: white;
+    position: relative;
+    left: 17.5%;
+    top: -100px;
+    font-size: 20px;
+    text-shadow: 0 0 4px black;
+}
+.pera:hover{
+    color: grey;
+}
+.imggg{
+    position: relative;
+    left: 60%;
+    bottom: 450px;
+    width: 500px;
+    opacity: 1;
+    box-shadow: 0 0 4px white;
+}
+.imggg:hover{
+opacity: 0.5;
+cursor: pointer;
+}
+.btn{
+    position: relative;
+    top: -450px;
+    right: 16%;
+    width: 90px;
+    height: 30px;
+    border-radius: 4px;
+    border: none;
+    border-radius: 12px;
+}
+.btn:hover{
+    background: black;
+    color: white;
+    }
+.button{
+    position: relative;
+    top: -430px;
+    right: 15%;
+    width: 45px;
+}
+.watch{
+    position: relative;
+    top: -505px;
+    left: 30%;
+    color: white;
+    font-size: 20px;
+    text-shadow: 0 0 4px black;
+}
+.watch:hover{
+    color: silver;
+}
